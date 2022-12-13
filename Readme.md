@@ -28,7 +28,7 @@
 
 3. Open menu **Terminal > New Terminal** or press **ctrl+shift+`**
 
-4. On terminal, change directory to **coffee-time** then run
+4. On terminal, change directory to **janjigacoffee-android** then run
 
    ```
    $ npm run start
@@ -64,3 +64,4 @@
 | profile         |
 | profile edit    |
 | see all         |
+
